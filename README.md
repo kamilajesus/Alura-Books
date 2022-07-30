@@ -13,8 +13,8 @@
 - [x] Call Backs
 - [x] Fetch API
 - [x] Promises
-- [ ] Async Await
-- [ ] Tratamentos de erros com Async
-- [ ] Promise All
+- [x] Async Await
+- [x] Tratamentos de erros com Async
+- [x] Promise All
 
 [⬆ Voltar ao topo](#Alura-Books)<br>
