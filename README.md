@@ -1,4 +1,6 @@
-# Alura-Books
+# <h1 align="center">Alura-Books</h1>
+
+<h2 align="center"><a href="https://alura-books-silk.vercel.app/">Clique para visitar o projeto</a></h2>
 
 <img src="alura-books1.png" alt="captura do site">
 <img src="alura-books2.png" alt="captura do site">
